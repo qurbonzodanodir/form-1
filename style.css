@@ -13,14 +13,24 @@ form{
 }
 .ok{
     width: 40px;
+    margin-left: 6px;
 }
 .ko{
    width: 40px; 
 }
 .lo{
     width: 40px;
-    margin-left: 10px;
+    margin-left: 18px;
+}
+.f{
+    margin-left: 18px;
 }
 .f1{
-    margin-left: 20px
+    margin-left: 40px
+}
+.s1{
+    margin-left: 50px;
+}
+.s2{
+    margin-left: 50px;
 }
